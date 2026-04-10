@@ -231,7 +231,7 @@ PREFERÊNCIAS: Metodologias: ${methodologies} | Recursos: ${resources} | Avalia�
                     <div className="space-y-1">
                       <h4 className="text-xs font-bold uppercase tracking-widest">Otimização Inteligente</h4>
                       <p className="text-[10px] text-muted-foreground leading-relaxed max-w-xs">
-                        Conteúdos densos e CSS compacto para economizar papel e apoiar o desenvolvimento disciplinar.
+                        Compacto para economizar papel e apoiar o desenvolvimento disciplinar.
                       </p>
                     </div>
                   </div>
@@ -263,7 +263,7 @@ PREFERÊNCIAS: Metodologias: ${methodologies} | Recursos: ${resources} | Avalia�
               <span>Espaço Otimizado</span>
               <span>Educação Salinas</span>
             </div>
-            <p className="text-[10px] font-bold tracking-widest leading-none">Secretaria Municipal de Educação · Bahia</p>
+            <p className="text-[10px] font-bold tracking-widest leading-none">Secretaria Municipal de Educação · Salinas da Margarida . Bahia</p>
           </footer>
         </div>
       </main>
